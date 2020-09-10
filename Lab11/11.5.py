@@ -9,3 +9,12 @@ print(y)
 
 
 print(math.gcd(x,y))
+
+"""
+Uri's comments:
+==============
+
+* It's good you used math.gcd, however the math.gcd result is not the expected
+  result of the assignment. You can use it to calculate the result. Please try again.
+   
+"""

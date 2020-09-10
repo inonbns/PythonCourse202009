@@ -6,3 +6,11 @@ numn = num1 + diff*(n-1)
 Sum = diff*(num1+numn)/2
 print(f"Sum is {Sum}")
 """הערה"""
+
+"""
+Uri's comments:
+==============
+
+* The result is not correct. Please try again.
+
+"""

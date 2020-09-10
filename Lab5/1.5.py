@@ -8,3 +8,11 @@ if (x2>x1) and (x2>x3):
     print(f"{x2}הוא גדול ")
 else:
     print(f"{x3}הוא גדול ")
+
+"""
+Uri's comments:
+==============
+
+* I get 2 lines of output in some cases. Please try again.
+
+"""
